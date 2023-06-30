@@ -1,0 +1,7 @@
+{
+  "name": "sergiolch/sp-api",
+  "description": "SP-API sample integration for FWA",
+  "require": {
+    "php": "^8.0"
+  }
+}
